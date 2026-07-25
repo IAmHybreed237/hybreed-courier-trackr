@@ -1,4 +1,4 @@
-# Hybreed Courier — Courier Tracking System Template
+# Hybreed Courier - Courier Tracking System Template By Hybreed X
 
 A production-ready courier tracking web application template by **Hybreed X**. Download, configure, and deploy your own shipment tracking system with a modern, responsive UI and a full-featured admin dashboard.
 
@@ -187,7 +187,7 @@ This template uses sensible defaults that you can customize:
 
 ## Developer
 
-**Hybreed X** — Web Development, App Development & Tech Solutions
+**Hybreed X (Ayuketang Agbornoh) ** — Web Development, App Development & Tech Solutions
 - GitHub: [@IAmHybreed237](https://github.com/IAmHybreed237)
 - Email: support@hybreedinc.com
 - Phone: +7 9896472811
