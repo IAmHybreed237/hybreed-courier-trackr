@@ -1,0 +1,35 @@
+# Environment and config files with sensitive data
+.env
+.env.local
+*.local
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Server config (contains paths and settings specific to hosting)
+.htaccess
+.user.ini
+php.ini
+
+# Error logs
+error_log
+*.log
+
+# Vendor dependencies (should be installed via composer)
+vendor/
+
+# Uploads (user-generated content)
+uploads/
+
+# Database backups
+*.sql.bak
+
+# Temporary files
+*.tmp
+*.cache
